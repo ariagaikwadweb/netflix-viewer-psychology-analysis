@@ -40,6 +40,9 @@ Countries like India and South Korea contribute heavily to Netflix’s global ca
 A significant portion of Netflix content contains emotionally intense themes such as crime, violence, revenge, and war.
 
 ---
+# 📈 Dark Content Analysis
+
+![Dark Content Analysis](visuals/dark_content_analysis.png)
 
 # 📁 Project Structure
 
