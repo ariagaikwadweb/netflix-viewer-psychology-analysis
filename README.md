@@ -44,6 +44,10 @@ A significant portion of Netflix content contains emotionally intense themes suc
 
 ![Dark Content Analysis](visuals/dark_content_analysis.png)
 
+# 🎭 Emotional Themes Analysis
+
+![Emotional Themes Analysis](visuals/emotional_themes_analysis.png)
+
 # 📁 Project Structure
 
 ```plaintext
